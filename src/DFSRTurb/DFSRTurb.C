@@ -54,6 +54,7 @@ Description
 #include "OPstream.H"
 #include "fftw3.h"
 #include "mkl.h"
+#include "mkl_lapack.h"
 #include "Pstream.H"
 #include "PrimitivePatch.H"
 #include "PatchTools.H"
